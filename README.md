@@ -1,4 +1,4 @@
-# Hola, soy [Adrian]
+# Hola, soy [AdrianLD]
 
 ## 📖 Aprendiendo
 - C++
@@ -17,7 +17,5 @@
 - Bash
 
 ## 📈 Mis estadísticas
-- GitHub Streak
-- GitHub Stats
-- Top Languages
-!Anurag's GitHub stats
+!GitHub Streak
+!Top Langs
