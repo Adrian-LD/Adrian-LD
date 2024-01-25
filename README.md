@@ -1,10 +1,8 @@
-# Hola, soy AdrianLD
+# Hi, I'm AdrianLD
+I'm actually study at the university of "La Laguna", I like to learn many different programming language.
 
-## 📖 Aprendiendo
+## 📖 Learning
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.png" width="48">
 
-
-
-
-## 📈 Mis estadísticas
+## 📈 My Stats
 [![AdrianLD GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianLD)](https://github.com/anuraghazra/github-readme-stats)
