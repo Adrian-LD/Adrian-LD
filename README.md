@@ -1,9 +1,6 @@
-# Hola, soy [AdrianLD]
+# Hola, soy AdrianLD
 
 ## 📖 Aprendiendo
-- C++
-
-## 🧰 Lenguajes y herramientas
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.png" width="48">
 
 
