@@ -17,4 +17,4 @@
 - Bash
 
 ## 📈 Mis estadísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AdrianLD=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![AdrianLD´s GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianLD)](https://github.com/anuraghazra/github-readme-stats)
